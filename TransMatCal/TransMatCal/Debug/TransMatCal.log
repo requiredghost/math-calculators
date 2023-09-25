@@ -1,0 +1,14 @@
+﻿  main.cpp
+D:\bonelab\MDS-GD-SUMMATIVES\GD1M02\Calculators\TransMatCal\TransMatCal\main.cpp(103,12): error C3861: 'multiplyMatrices': identifier not found
+D:\bonelab\MDS-GD-SUMMATIVES\GD1M02\Calculators\TransMatCal\TransMatCal\main.cpp(117,12): error C3861: 'multiplyMatrices': identifier not found
+D:\bonelab\MDS-GD-SUMMATIVES\GD1M02\Calculators\TransMatCal\TransMatCal\main.cpp(131,12): error C3861: 'multiplyMatrices': identifier not found
+D:\bonelab\MDS-GD-SUMMATIVES\GD1M02\Calculators\TransMatCal\TransMatCal\main.cpp(265,84): error C3543: 'const std::vector<std::vector<double,std::allocator<double>>,std::allocator<std::vector<double,std::allocator<double>>>> &': does not contain a parameter pack
+D:\bonelab\MDS-GD-SUMMATIVES\GD1M02\Calculators\TransMatCal\TransMatCal\main.cpp(266,78): error C3527: 'transformations' is not a valid operand for 'sizeof...'. Did you mean to use 'sizeof'?
+D:\bonelab\MDS-GD-SUMMATIVES\GD1M02\Calculators\TransMatCal\TransMatCal\main.cpp(266,83): error C2109: subscript requires array or pointer type
+D:\bonelab\MDS-GD-SUMMATIVES\GD1M02\Calculators\TransMatCal\TransMatCal\main.cpp(269,74): error C3527: 'transformations' is not a valid operand for 'sizeof...'. Did you mean to use 'sizeof'?
+D:\bonelab\MDS-GD-SUMMATIVES\GD1M02\Calculators\TransMatCal\TransMatCal\main.cpp(269,107): error C3527: 'transformations' is not a valid operand for 'sizeof...'. Did you mean to use 'sizeof'?
+D:\bonelab\MDS-GD-SUMMATIVES\GD1M02\Calculators\TransMatCal\TransMatCal\main.cpp(269,108): error C2109: subscript requires array or pointer type
+D:\bonelab\MDS-GD-SUMMATIVES\GD1M02\Calculators\TransMatCal\TransMatCal\main.cpp(269,121): error C2059: syntax error: '...'
+D:\bonelab\MDS-GD-SUMMATIVES\GD1M02\Calculators\TransMatCal\TransMatCal\main.cpp(365,43): error C2664: 'std::vector<std::vector<double,std::allocator<double>>,std::allocator<std::vector<double,std::allocator<double>>>> concatenateTransformations(const std::vector<std::vector<double,std::allocator<double>>,std::allocator<std::vector<double,std::allocator<double>>>> &...)': cannot convert argument 1 from 'std::vector<std::vector<double,std::allocator<double>>,std::allocator<std::vector<double,std::allocator<double>>>>' to 'const std::vector<std::vector<double,std::allocator<double>>,std::allocator<std::vector<double,std::allocator<double>>>> &...'
+D:\bonelab\MDS-GD-SUMMATIVES\GD1M02\Calculators\TransMatCal\TransMatCal\main.cpp(366,9): message : No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+D:\bonelab\MDS-GD-SUMMATIVES\GD1M02\Calculators\TransMatCal\TransMatCal\main.cpp(265,24): message : see declaration of 'concatenateTransformations'

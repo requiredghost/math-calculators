@@ -1,0 +1,2 @@
+﻿  main.cpp
+D:\bonelab\MDS-GD-SUMMATIVES\GD1M02\Calculators\QuaCal\QuaCal\main.cpp(76,43): error C2676: binary '*': 'Quaternion' does not define this operator or a conversion to a type acceptable to the predefined operator
